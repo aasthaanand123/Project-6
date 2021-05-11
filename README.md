@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/aasthaanand123/Project-6)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://testimonials-slider1.netlify.app/)
 
 ## My process
 
